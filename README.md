@@ -4,9 +4,9 @@
 
   <h2 align="center">QR Code Component</h2>
   <p align="center">
-    <a href="https://www.frontendmentor.io/challenges/results-summary-component-CE_K6s0maV" target="_blank"><strong>Frontend Mentor Challenge</strong></a>
+    <a href="https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H" target="_blank"><strong>Frontend Mentor Challenge</strong></a>
     <br />
-    <a href="https://www.frontendmentor.io/challenges/results-summary-component-CE_K6s0maV" target="_blank"><strong>View Demo</strong></a>
+    <a href="https://joshpickardme.github.io/FEM-qr-code-component/" target="_blank"><strong>View Demo</strong></a>
     <br />
   </p>
 </div>
